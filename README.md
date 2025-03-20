@@ -37,4 +37,4 @@ Welcome to **Bella Beans Coffee**, a cozy fictional coffee shop site created to 
 
 ## Folder Structure
 
-
+bella-beans-website/ ├── index.html ├── menu.html ├── about.html ├── contact.html ├── style.css ├── /images └── /js
