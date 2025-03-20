@@ -37,4 +37,28 @@ Welcome to **Bella Beans Coffee**, a cozy fictional coffee shop site created to 
 
 ## Folder Structure
 
-bella-beans-website/ ├── index.html ├── menu.html ├── about.html ├── contact.html ├── style.css ├── /images └── /js
+bella-beans-website/ ├── index.html ├── menu.html ├── about.html ├── contact.html ├── style.css ├── /images |─ js
+
+
+---
+
+## How to Use
+
+1. Clone the repo or download the ZIP file
+2. Open in VS Code or your preferred editor
+3. Open `index.html` in your browser
+4. Customize or expand the project if you'd like!
+
+---
+
+## License
+
+This project is for educational and portfolio use. Feel free to fork and adapt!
+
+---
+
+## Author
+
+**Bryan (EpicStudio404)**  
+
+
